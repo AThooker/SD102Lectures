@@ -1,0 +1,7 @@
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Loops\bin\Debug\03_Loops.exe.config
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Loops\bin\Debug\03_Loops.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Loops\bin\Debug\03_Loops.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Loops\obj\Debug\03_Loops.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Loops\obj\Debug\03_Loops.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Loops\obj\Debug\03_Loops.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Loops\obj\Debug\03_Loops.pdb

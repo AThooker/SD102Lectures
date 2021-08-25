@@ -1,0 +1,16 @@
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\bin\Debug\net5.0\ConditionalsForSD102.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\bin\Debug\net5.0\ConditionalsForSD102.deps.json
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\bin\Debug\net5.0\ConditionalsForSD102.runtimeconfig.json
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\bin\Debug\net5.0\ConditionalsForSD102.runtimeconfig.dev.json
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\bin\Debug\net5.0\ConditionalsForSD102.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\bin\Debug\net5.0\ref\ConditionalsForSD102.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\bin\Debug\net5.0\ConditionalsForSD102.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ConditionalsForSD102.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ConditionalsForSD102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ConditionalsForSD102.AssemblyInfoInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ConditionalsForSD102.AssemblyInfo.cs
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ConditionalsForSD102.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ConditionalsForSD102.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ref\ConditionalsForSD102.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ConditionalsForSD102.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\ConditionalsForSD102\obj\Debug\net5.0\ConditionalsForSD102.genruntimeconfig.cache

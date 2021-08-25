@@ -1,0 +1,16 @@
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\bin\Debug\net5.0\01_IfElseStatements.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\bin\Debug\net5.0\01_IfElseStatements.deps.json
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\bin\Debug\net5.0\01_IfElseStatements.runtimeconfig.json
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\bin\Debug\net5.0\01_IfElseStatements.runtimeconfig.dev.json
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\bin\Debug\net5.0\01_IfElseStatements.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\bin\Debug\net5.0\ref\01_IfElseStatements.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\bin\Debug\net5.0\01_IfElseStatements.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\01_IfElseStatements.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\01_IfElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\01_IfElseStatements.AssemblyInfoInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\01_IfElseStatements.AssemblyInfo.cs
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\01_IfElseStatements.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\01_IfElseStatements.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\ref\01_IfElseStatements.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\01_IfElseStatements.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\01_IfElseStatements\obj\Debug\net5.0\01_IfElseStatements.genruntimeconfig.cache

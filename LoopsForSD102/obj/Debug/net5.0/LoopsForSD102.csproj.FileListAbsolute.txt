@@ -1,0 +1,16 @@
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\bin\Debug\net5.0\LoopsForSD102.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\bin\Debug\net5.0\LoopsForSD102.deps.json
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\bin\Debug\net5.0\LoopsForSD102.runtimeconfig.json
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\bin\Debug\net5.0\LoopsForSD102.runtimeconfig.dev.json
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\bin\Debug\net5.0\LoopsForSD102.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\bin\Debug\net5.0\ref\LoopsForSD102.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\bin\Debug\net5.0\LoopsForSD102.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\LoopsForSD102.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\LoopsForSD102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\LoopsForSD102.AssemblyInfoInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\LoopsForSD102.AssemblyInfo.cs
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\LoopsForSD102.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\LoopsForSD102.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\ref\LoopsForSD102.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\LoopsForSD102.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\LoopsForSD102\LoopsForSD102\obj\Debug\net5.0\LoopsForSD102.genruntimeconfig.cache

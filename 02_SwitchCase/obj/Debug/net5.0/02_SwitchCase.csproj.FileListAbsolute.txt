@@ -1,0 +1,16 @@
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\bin\Debug\net5.0\02_SwitchCase.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\bin\Debug\net5.0\02_SwitchCase.deps.json
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\bin\Debug\net5.0\02_SwitchCase.runtimeconfig.json
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\bin\Debug\net5.0\02_SwitchCase.runtimeconfig.dev.json
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\bin\Debug\net5.0\02_SwitchCase.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\bin\Debug\net5.0\ref\02_SwitchCase.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\bin\Debug\net5.0\02_SwitchCase.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\02_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\02_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\02_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\02_SwitchCase.AssemblyInfo.cs
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\02_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\02_SwitchCase.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\ref\02_SwitchCase.dll
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\02_SwitchCase.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\02_SwitchCase\obj\Debug\net5.0\02_SwitchCase.genruntimeconfig.cache
