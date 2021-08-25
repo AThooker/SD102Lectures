@@ -36,21 +36,29 @@ namespace _03_Loops
             //Bring in Random object
             //get random number and if it equals a certain number break the loop
             Random rand = new Random();
-            int randCount = rand.Next(0, 20);
             bool loop = true;
             while(loop)
             {
-                if(randCount == 6 || randCount == 12)
+                int randCount = rand.Next(0, 10);
+                if(randCount % 2 == 0)
                 {
-                    continue;
+                    Console.WriteLine($"we have an even number, {randCount} ");
+                    break;
                 }
-                Console.WriteLine(randCount);
+                else
+                {
+                    Console.WriteLine($"We have an odd number, {randCount}");
+                }
                 if(randCount == 15)
                 {
-                    Console.WriteLine("uh oh it's 15");
+                    Console.WriteLine("unlucky 13, get me out of this loop");
                     loop = false;
                 }
             }
+
+            //FOR LOOPS
+
+
             Console.ReadLine();
         }
     }
