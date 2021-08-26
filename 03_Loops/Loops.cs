@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03_Loops
 {
-    class Program
+    class Loops
     {
         static void Main(string[] args)
         {
@@ -121,6 +121,7 @@ namespace _03_Loops
             while (iterator < 1);
             Console.ReadKey();
 
+
             // FOR LOOPS
 
             // **Used when you know exactly how many times you want to loop through**when you want loop to break after a certain number of times, use for loop
@@ -187,41 +188,23 @@ namespace _03_Loops
             {
                 Console.WriteLine($"Hi there, {classList[i]}");
             }
-            //Mention shortcut for tab tab
+            //Mention shortcut "for" tab tab
 
             //Challenge
             //Bronze
+            //Create a for loop that begins at 500, and prints off every number up to (and including) 525.
             for (int i = 500; i <= 525; i++)
             {
                 Console.WriteLine(i);
             }
 
-            //Silver
+            //Create a for loop that prints off numbers from 1 - 100(including 100) by 5's
+            //i.e. 5,10,15,20...100
             for (int i = 0; i <= 100; i += 5)
             {
                 Console.WriteLine(i);
             }
-            //Gold
-            for (int i = 0; i <= 100; i++)
-            {
-                if (i % 15 == 0)
-                {
-                    Console.WriteLine("fizzbuzz");
-                }
-                else if (i % 5 == 0)
-                {
-                    Console.WriteLine("buzz");
-                }
-                else if (i % 3 == 0)
-                {
-                    Console.WriteLine("fizz");
-                }
-                else
-                {
-                    Console.WriteLine(i);
-                }
 
-            }
             string[] classListTwo = { "Ashley", "Ahmad", "Austin" };
 
             //foreach loops
@@ -232,8 +215,10 @@ namespace _03_Loops
             //    bodyOfCode;
             //}
 
+            //foreach copies the collection every time it is iterating through, student is a temporary value, that's why you cannot change the value of single elements
             foreach(string student in classListTwo)
             {
+                //student = "Karina"
                 Console.WriteLine($"{student} is in class today");
             }
 
@@ -242,8 +227,9 @@ namespace _03_Loops
 
             foreach(int myVariable in listOfNumbers)
             {
-                int myNewVariable = myVariable + 5;
-                Console.WriteLine(myNewVariable);
+                //int myNewVariable = myVariable + 5;
+                //Console.WriteLine(myNewVariable);
+                Console.WriteLine(myVariable);
             }
 
             string name = "Tony Stark";
@@ -255,6 +241,10 @@ namespace _03_Loops
                 }
             }
             Console.ReadLine();
+
+            // **Challenge**
+            //Create a string list, add 4 strings to the list. 
+            //Create a foreach loop that writes to the console the length of each string
         }
     }
 }

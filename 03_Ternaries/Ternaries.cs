@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03_Ternaries
 {
-    class Program
+    class Ternaries
     {
         static void Main(string[] args)
         {
@@ -29,6 +29,6 @@ namespace _03_Ternaries
             Console.WriteLine(isAdult);
             Console.ReadLine();
         }
-        //ternaries are for simplifying if else statements, and checking post data authorization
+            //ternaries are for simplifying if else statements, and checking post data authorization
     }
 }

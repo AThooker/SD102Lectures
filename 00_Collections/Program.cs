@@ -11,18 +11,20 @@ namespace _00_Collections
         static void Main(string[] args)
         {
             //Collections
+            //these give us a way to create and manage groups of related elements, objects, data
 
             //Array
             //Hold only one kind element/data type, fixed length
             //Not used to add or remove data, arrays are used for arithmetic computing
             string stringExample = "OneString";
-            string[] stringArray = { stringExample, "TwoStrings", "ThreeStrings" };
+            string[] sizeOfArray = new string[5];
+            string[] initArray = { stringExample, "TwoStrings", "ThreefStrings" };
 
             //birds eye view of a house and how the address is how we get to each house, not the names of people
-            string thirdItemOfArray = stringArray[2];
-            Console.WriteLine(thirdItemOfArray);
-            stringArray[0] = "FirstString";
-            Console.WriteLine(stringArray[0]);
+            string firstItem = initArray[0];
+            Console.WriteLine(firstItem);
+            initArray[0] = "I am first now";
+            Console.WriteLine(initArray[0]);
             Console.ReadLine();
 
             //Lists
@@ -32,18 +34,23 @@ namespace _00_Collections
 
             //List of strings
             List<string> listOfStrings = new List<string>();
-            //init List of strings
-            List<string> initListOfString = new List<string> { "one", "two", "three" };
-            listOfStrings.Add("First string in our list");
-            initListOfString.Add("four");
+            listOfStrings.Add("I am the first string hazaa");
             //Show why you can't just print a List<string>, then print at [0]
-            Console.WriteLine(listOfStrings);
+            Console.WriteLine(listOfStrings[0]);
+
+            //init List of strings
+            List<string> initListOfString = new List<string> { "index 1", "index 1", "index 2" };
+            initListOfString.Add("index 3");
+            Console.WriteLine(initListOfString[3]);
+
+            //**Quick Challenge**
+            // Create an empty list of int and add an integer to it
+
 
             //List of ints
             List<int> listOfIntegers = new List<int>();
             Console.ReadLine();
             listOfIntegers.Add(1);
-            listOfIntegers.Add(2);
             Console.WriteLine(listOfIntegers[0]);
 
             // Queue
@@ -51,7 +58,6 @@ namespace _00_Collections
             // Cars in a line in a tunnel, first one in is the first one out
             // line at BMV, FIFO
             Queue<string> fifo = new Queue<string>();
-            //initialized Queue, may not show this
             fifo.Enqueue("I'm first!");
             fifo.Enqueue("I am next");
             string firstItemOut = fifo.Dequeue();
@@ -63,8 +69,9 @@ namespace _00_Collections
             //keys must be unique, values can be duplicated
             Dictionary<int, string> keyAndValue = new Dictionary<int, string>();
             keyAndValue.Add(5, "Value to Key 5");
-            string valueSeven = keyAndValue[5];
-            Console.WriteLine(valueSeven);
+            //instead of getting it by index, it get value by key value
+            string valueFive = keyAndValue[5];
+            Console.WriteLine(valueFive);
             Console.ReadLine();
 
 

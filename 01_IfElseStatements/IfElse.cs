@@ -37,23 +37,23 @@ namespace _01_IfElseStatements
             //Taking in user input about how many hours they sleep
 
             Console.WriteLine("How many hours do you sleep on avg /night?: ");
-            string rating = Console.ReadLine();
+            string hours = Console.ReadLine();
             //int numberRating = int.Parse(Console.ReadLine());
             //int numberratintg = Convert.ToInt32(rating);
-            int numberRating = int.Parse(rating);
+            int numberHours = int.Parse(hours);
 
-            if (numberRating >= 8)
+            if (numberHours >= 8)
             {
                 Console.WriteLine("Living the dream");
             }
-            else if (numberRating >= 5)
+            else if (numberHours >= 5)
             {
                 Console.WriteLine("Could be better, could be worse");
             }
             else
             {
                 Console.WriteLine("Night time is the right time to fight crime");
-                if (numberRating <= 2)
+                if (numberHours <= 2)
                 {
                     Console.WriteLine("I am batman");
                 }
@@ -61,7 +61,7 @@ namespace _01_IfElseStatements
 
             //Maybe do this one as a CHALLENGE??
 
-            //Get users age, if they are older than 17, tell them congrats for being an adult, otherwise if they are older than 6 tell them they are still a child, and if they are older than 0, tell them to grow up. if they don't give a proper number, tell them to kcik rocks silly user
+            //Ask the user their age and put their answer through an if/else statement, if they are older than 17, tell them congrats for being an adult, if they are older than 6 tell them they are still a child, and if they are older than 0, tell them to grow up. if they don't give a proper number, tell them to kick rocks. You can only write one line to the console after they give their input
 
             Console.WriteLine("How old are you?: ");
 
@@ -70,7 +70,7 @@ namespace _01_IfElseStatements
             {
                 Console.WriteLine("Congrats on being an adult...NOT!");
             }
-            else if (age > 8)
+            else if (age > 6)
             {
                 Console.WriteLine("You are still a kid, kiddo");
             }
