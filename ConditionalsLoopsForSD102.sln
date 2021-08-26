@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalsForSD102", "Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_IfElseStatements", "01_IfElseStatements\01_IfElseStatements.csproj", "{B6D67CFB-9482-404E-A5BA-14937BB62DFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SwitchCase", "02_SwitchCase\02_SwitchCase.csproj", "{614446C4-4B36-403F-8753-34622499EF9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_SwitchCase", "02_SwitchCase\02_SwitchCase.csproj", "{614446C4-4B36-403F-8753-34622499EF9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "03_Loops\04_Loops.csproj", "{868F3BB2-77AC-4491-ADCF-F8F6F79EAA94}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Ternaries", "03_Ternaries\03_Ternaries.csproj", "{D5254F81-FB1B-4B2D-BBCA-80FA18790FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Collections", "00_Collections\00_Collections.csproj", "{B535AF4D-8D03-4722-9AF5-B5D755AFA5BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D5254F81-FB1B-4B2D-BBCA-80FA18790FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5254F81-FB1B-4B2D-BBCA-80FA18790FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5254F81-FB1B-4B2D-BBCA-80FA18790FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B535AF4D-8D03-4722-9AF5-B5D755AFA5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B535AF4D-8D03-4722-9AF5-B5D755AFA5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B535AF4D-8D03-4722-9AF5-B5D755AFA5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B535AF4D-8D03-4722-9AF5-B5D755AFA5BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

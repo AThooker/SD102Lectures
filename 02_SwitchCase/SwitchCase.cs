@@ -16,7 +16,7 @@ namespace _02_SwitchCase
                     Console.WriteLine("20");
                     break;
                 case 25:
-                    //code executed if age is 15
+                    //code executed if age is 25
                     Console.WriteLine("25");
                     break;
                 case 5:
@@ -38,8 +38,9 @@ namespace _02_SwitchCase
             //show difference between case being number or string
 
             Console.WriteLine("Give me a number between 1 and 5: ");
+            //string input = Console.ReadLine();
             int input = int.Parse(Console.ReadLine());
-            switch(input)
+            switch (input)
             {
                 case 1:
                     Console.WriteLine("You chose the number " + input);
@@ -56,9 +57,33 @@ namespace _02_SwitchCase
                 case 5:
                     Console.WriteLine("You chose the number " + input);
                     break;
-
             }
             Console.ReadLine();
+
+
+            // **Challenge** switch case asking the user for their favorite color from a selection of blue, red, green, or black. Convert the users' input to lowercase and write back to the console the color that the user chose. If they don't choose a color tell them to come back and try again
+
+            Console.WriteLine("what is your favorite color between blue, red, green, and black?: ");
+            string colorInput = Console.ReadLine().ToLower();
+
+            switch(colorInput)
+            {
+                case "blue":
+                    Console.WriteLine($"You chose the color {colorInput}");
+                    break;
+                case "red":
+                    Console.WriteLine($"You chose the color {colorInput}");
+                    break;
+                case "green":
+                    Console.WriteLine($"You chose the color {colorInput}");
+                    break;
+                case "black":
+                    Console.WriteLine($"You chose the color {colorInput}");
+                    break;
+                default:
+                    Console.WriteLine("that's not in our list of colors, come back and try again");
+                    break;
+            }
 
             //Show if we have time
             DayOfWeek today = DateTime.Today.DayOfWeek;

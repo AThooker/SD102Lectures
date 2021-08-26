@@ -34,7 +34,7 @@ namespace _01_IfElseStatements
                 Console.WriteLine("You owe me $10, I don't make the rules I just code them");
             }
 
-            //Taking in user input about how they are feeling
+            //Taking in user input about how many hours they sleep
 
             Console.WriteLine("How many hours do you sleep on avg /night?: ");
             string rating = Console.ReadLine();
@@ -82,9 +82,7 @@ namespace _01_IfElseStatements
             {
                 Console.WriteLine("Kick rocks");
             }
-            Console.ReadLine();
-
-            if(age > 42 || age < 40)
+            if(age >= 42 || age <= 40)
             {
                 Console.WriteLine("well we know you are not 41 years old");
             }
@@ -92,6 +90,7 @@ namespace _01_IfElseStatements
             {
                 Console.WriteLine("Well, you must be 41");
             }
+            Console.ReadLine();
         
         }
     }

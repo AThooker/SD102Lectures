@@ -10,8 +10,25 @@ namespace LoopsForSD102
 
             //WHILE LOOP
 
+            //give conceptual example of gong to movie menu screen on dvd player and going through options
+            // person puts song on repeat....while repeat is pressed, keep repeating song
+            //while (watchingMovie)
+            //{
+            //play movie
+            //select chapter
+            //deleted scenes
+            //stop (break while loop, done watching movie)
+            //}
+
             //executes a block of code as long as a specified condition is reached
             // * Used when the number of loops is unsure * When you want the loop to break based on the condition, use while loop
+
+            bool isHappy = true;
+            while(isHappy)
+            {
+                //do something
+                Console.WriteLine("I am happy");
+            }
 
             int tired = 0; //always
 
@@ -83,8 +100,7 @@ namespace LoopsForSD102
             // Next we give the program the code we want to run at each value until we hit the number 100
 
 
-
-
+                  //1st      //2nd   //3rd
             for(int i = 100; i < 200; i++)
             {
                 Console.WriteLine(i);

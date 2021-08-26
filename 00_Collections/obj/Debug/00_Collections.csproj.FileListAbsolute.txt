@@ -1,0 +1,7 @@
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\00_Collections\bin\Debug\00_Collections.exe.config
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\00_Collections\bin\Debug\00_Collections.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\00_Collections\bin\Debug\00_Collections.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\00_Collections\obj\Debug\00_Collections.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\00_Collections\obj\Debug\00_Collections.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\00_Collections\obj\Debug\00_Collections.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\00_Collections\obj\Debug\00_Collections.pdb
