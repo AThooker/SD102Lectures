@@ -24,11 +24,12 @@ namespace _03_Ternaries
             //ternaries can get nasty really quick
             //just to show how capable ternaries are
             //can be simplified because they both have to be true to be true...&& would work
-            int age = 18;
+            int age = 26;
             bool isAdult = age > 17 ? (age < 25 ? true : false) : false;
             Console.WriteLine(isAdult);
             Console.ReadLine();
         }
-            //ternaries are for simplifying if else statements, and checking post data authorization
+        //ternaries are for simplifying if else statements, and checking data authorization
+
     }
 }

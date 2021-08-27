@@ -1,0 +1,7 @@
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Ternaries\bin\Debug\03_Ternaries.exe.config
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Ternaries\bin\Debug\03_Ternaries.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Ternaries\bin\Debug\03_Ternaries.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Ternaries\obj\Debug\03_Ternaries.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Ternaries\obj\Debug\03_Ternaries.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Ternaries\obj\Debug\03_Ternaries.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\Lectures\03_Ternaries\obj\Debug\03_Ternaries.pdb

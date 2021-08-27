@@ -14,7 +14,7 @@ namespace _03_Loops
 
 
             //spotify repeating song while rpeating song button is pressed
-            //while (repeatSong)
+            //while (repeatSongButtonPressed)
             //{
             //    repeat song;
             //}
@@ -27,14 +27,15 @@ namespace _03_Loops
             while (number != 10)
             {
                 Console.WriteLine(number);
-                //show infinite loop without total++ first
+                //show infinite loop without number++ first
                 //nubmer = number + 1;
                 number++;
             }
 
             //show that loop doesn't have to depend on a number, but a condition
             int newNumber = 0;
-            while(true)
+            bool runPlease = false;
+            while(runPlease)
             {
                 if(newNumber == 10)
                 {
@@ -43,7 +44,6 @@ namespace _03_Loops
                 }
                 newNumber++;
             }
-
 
             //give conceptual example of gong to movie menu screen on dvd player and going through options
 
@@ -75,13 +75,15 @@ namespace _03_Loops
                         break;
                     case 3:
                         Console.WriteLine("You've bought a brand new boat");
+                        looptyLoop = false;
                         break;
                     default:
                         Console.WriteLine("You have bought nothing you fool");
+                        looptyLoop = false;
                         break;
                 }
             }
-
+            
             //Bring in Random object
             //get random number and if it equals a certain number break the loop
             //Random rand = new Random();
@@ -118,7 +120,8 @@ namespace _03_Loops
                 Console.WriteLine("Hi there");
                 iterator++;
             }
-            while (iterator < 1);
+            while (iterator < 0);
+            Console.WriteLine("Out of the do while loop");
             Console.ReadKey();
 
 
@@ -182,16 +185,18 @@ namespace _03_Loops
                 Console.WriteLine(i);
             }
             Console.ReadLine();
-            string[] classList = { "Rob", "Ahmad", "Austin" };
 
-            for (int i = 0; i < classList.Length; i++)
+            //using random class with for loop to show we may not know how many times to loop but the computer will
+            Random random = new Random();
+            int randNum = random.Next(1, 50);
+            for (int i = 0; i < randNum; i++)
             {
-                Console.WriteLine($"Hi there, {classList[i]}");
+                Console.WriteLine(i);
             }
+            Console.ReadLine();
             //Mention shortcut "for" tab tab
 
-            //Challenge
-            //Bronze
+            //**Challenge**
             //Create a for loop that begins at 500, and prints off every number up to (and including) 525.
             for (int i = 500; i <= 525; i++)
             {
@@ -206,6 +211,8 @@ namespace _03_Loops
             }
 
             string[] classListTwo = { "Ashley", "Ahmad", "Austin" };
+            //List<string> initListOfString = new List<string> { "index 1", "index 1", "index 2" };
+
 
             //foreach loops
             //Used whenever you iterate over the elements of a collection
@@ -216,7 +223,7 @@ namespace _03_Loops
             //}
 
             //foreach copies the collection every time it is iterating through, student is a temporary value, that's why you cannot change the value of single elements
-            foreach(string student in classListTwo)
+            foreach (string student in classListTwo)
             {
                 //student = "Karina"
                 Console.WriteLine($"{student} is in class today");
@@ -243,8 +250,8 @@ namespace _03_Loops
             Console.ReadLine();
 
             // **Challenge**
-            //Create a string list, add 4 strings to the list. 
-            //Create a foreach loop that writes to the console the length of each string
+            //Create an empty string list, add 4 strings to the list. 
+            //Create a foreach loop that writes each string to the console
         }
     }
 }
